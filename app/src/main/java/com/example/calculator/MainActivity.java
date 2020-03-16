@@ -84,4 +84,13 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
+    private void add()
+    {
+        int i = 3;
+
+        int j = 5;
+
+        int k = 7;
+    }
 }
